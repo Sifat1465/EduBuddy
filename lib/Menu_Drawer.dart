@@ -12,7 +12,7 @@ import 'package:flutter_application_1/pages/resources.dart';
 import 'package:flutter_application_1/AppSettings_LogoutPage.dart';
 
 class MenuDrawer extends StatelessWidget {
-  MenuDrawer({super.key});
+  const MenuDrawer({super.key});
 
   final List<Map<String, dynamic>> menuOptions = const [
     {
