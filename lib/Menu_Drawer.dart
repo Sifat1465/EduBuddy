@@ -8,7 +8,7 @@ import 'package:flutter_application_1/pages/voting.dart';
 import 'package:flutter_application_1/pages/notification.dart';
 import 'package:flutter_application_1/pages/resources.dart';
 
-// Settings / Logout
+// Settings (Logout)
 import 'package:flutter_application_1/AppSettings_LogoutPage.dart';
 
 class MenuDrawer extends StatelessWidget {
